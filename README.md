@@ -17,12 +17,15 @@ Naive Bayes
 Deep Learning Models
 Multi-Layer Perceptron (MLP)
 MLP benchmarked with Recurrent Neural Network (RNN)
-Key Findings:
 
+Key Findings:
 The Random Forest model emerged as the top performer with an accuracy of 0.9967.
 Deep Learning and MLP models also demonstrated high accuracies, indicating the potential of advanced machine learning techniques in predictive maintenance.
+
 Usage:
 This repository contains all the code, data, and resources used in our study. Detailed instructions for setting up the environment, running the models, and replicating our results are provided in the subsequent sections.
 
 Contribution:
 This project contributes to the predictive maintenance domain by showcasing the effectiveness of a multi-model approach. It provides a benchmark for future research and development in this area, emphasizing the importance of machine learning in industrial maintenance.
+
+Done by: Tarek Salameh and AlWaleed Al-Alami
